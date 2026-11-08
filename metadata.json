@@ -1,0 +1,6 @@
+{
+  "name": "Tripura Lagoon Resort & Conventions",
+  "description": "Luxury waterfront resort website featuring interactive 360° panoramas, drone video frame grabber, room bookings, Oasis dining reservations, Vedika banquet event calculator, and BookEngine OTA channel manager sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
